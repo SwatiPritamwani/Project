@@ -1,0 +1,5 @@
+Contact Management System
+MIS - 141508009
+Name - Swati Pritamwani
+
+This is a contact management system. It works like a Contact Optimizer of our Android. This system creates a new contact. The user needs to fill in the appropriate information and the contact will be saved. Duplicate contacts cannot be saved. while saving the contact, user needs to specify the storage and the group in which it will be saved and according to the storage and group, the contacts will be listed based on what the user wants. It also allows to modify and delete the contact based on name or number as well as search a particular contact. This system restricts the saving of duplicate contacts but if in case we want to check whether dulicates are present or not, we can do it.
